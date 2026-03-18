@@ -62,7 +62,7 @@ Parameters are checked on instance first, then type (fallback).
 | | SmartCheck | BIMcollab Zoom Smart Views | Solibri |
 |---|---|---|---|
 | Runs on | Live Revit model | IFC (post-export) | IFC (post-export) |
-| Rules format | JSON | .bcsv (proprietary) | Built-in UI |
+| Rules format | JSON | .bcsv | Built-in UI |
 | Auto-color | Yes | Yes | Yes |
 | Sharing | Git / copy file | BIMcollab cloud | Solibri project |
 | Issue tracking | No | Yes | Yes |
