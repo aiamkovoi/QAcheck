@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Revit-specific / pyRevit
+# (Usually we don't want to ignore much here, but just in case)
+*.log
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
